@@ -1,3 +1,7 @@
+'''
+Run main.py to boot up the tictactoe bot in-server
+'''
+
 import discord
 import os
 import tictactoe
